@@ -1,4 +1,4 @@
-# Xbox OG ISO Extractor & Unpacker
+# Xbox OG ISO Extractor & Unpacker to XISO-FOLDER Format
 
 This script automates the process of extracting compressed files (`.zip`, `.rar`, `.7z`, etc.) that contain Xbox Original (OG) game ISOs, and then unpacks those ISOs using the `xdvdfs.exe` tool.
 
